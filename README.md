@@ -59,7 +59,7 @@ The node plays bell sounds and voice announcements through the institution’s a
 ## 🔗 Project Modules
 
 Desktop Application:  
-https://github.com/cloudbellproject/cloudbell-app
+https://github.com/cloudbellproject/cloudbellapp
 
 Android Application:  
 https://github.com/cloudbellproject/cloudbellgo
